@@ -8,6 +8,7 @@ function App() {
         meaning of a word or improve their vocabulary in a convenient and
         efiicient way
       </p>
+      <p>This is owned by kalil</p>
     </div>
 
   )
